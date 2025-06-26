@@ -1,0 +1,17 @@
+.nav-link {
+    margin: 0 10px;
+    color: white;         /* or any color */
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .nav-link:hover {
+    color: lightblue;
+    text-decoration: underline;
+  }
+  .nav-bar {
+    text-align: center;
+    margin-top: 20px;
+  }
+    
